@@ -119,6 +119,7 @@ fun ConverterContent(
             }
 
             Spacer(modifier = Modifier.height(32.dp))
+            Spacer(modifier = Modifier.height(24.dp))
 
             // 3) The result card.
             ResultCard(
