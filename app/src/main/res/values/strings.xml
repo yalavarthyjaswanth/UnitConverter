@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="from_label">From</string>
+    <string name="to_label">To</string>
+    <string name="swap_units">Swap units</string>
+    <string name="select_unit">Select unit</string>
+    <string name="result_label">Result</string>
+    <string name="result_placeholder">Enter a number to convert</string>
+</resources>
